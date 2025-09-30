@@ -13,7 +13,7 @@ I'm **Mohd Arbab Rizvi** from Noida, India
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,expressjs,react,nodejs,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,expressjs,react,nodejs&theme=dark" />
 </div>
 
 ## 📊 GitHub Stats
