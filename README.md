@@ -3,8 +3,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Arbab Rizvi** from India, passionate about innovative web solutions and exploring AI technologies.
-
+I'm **Arbab Rizvi** from Noida, India
 - 🎓 I'm a Computer Science Engineering Student
 - 💻 Learning Full Stack Development
 - 🤖 Exploring AI/ML and emerging technologies
