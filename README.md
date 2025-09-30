@@ -1,23 +1,21 @@
 # Hey There 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E6CC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Engineering+Student;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E6CC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI/ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 About Me
 
-I'm **Arbab Rizvi** from India, passionate about creating innovative web solutions and exploring AI technologies.
+I'm **Arbab Rizvi** from India, passionate about innovative web solutions and exploring AI technologies.
 
-- 🎓 **Engineering Student** specializing in Computer Science
-- 💻 **Full Stack Developer** with expertise in modern web technologies
-- 🤖 **AI Enthusiast** currently learning Machine Learning and NLP
-- 🌱 Always learning and building exciting projects
-- 📫 Reach me at: **arbabrizviwork@gmail.com**
+- 🎓 I'm a Computer Science Engineering Student
+- 💻 Learning Full Stack Development
+- 🤖 Exploring AI/ML and emerging technologies
 
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,github&theme=dark" />
 </div>
 
 ## 📊 GitHub Stats
