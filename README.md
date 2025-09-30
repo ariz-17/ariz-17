@@ -14,7 +14,7 @@
 ## 🛠️ Languages and Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html &nbsp,css &nbsp,js &nbsp,mongodb &nbsp,expressjs &nbsp,react &nbsp,nodejs &nbsp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,expressjs,react,nodejs&theme=dark" />
 </div>
 
 ## 📊 GitHub Stats
