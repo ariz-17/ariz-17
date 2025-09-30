@@ -17,20 +17,15 @@ I'm **Mohd Arbab Rizvi** from Noida, India
 </div>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariz17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariz17&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
+<br><br>
 ## 🔥 GitHub Streak
-<br>
+<br><br>
 ## 📈 Activity Graph
-<br>
+<br><br>
 ## 🏆 GitHub Trophies
-<br>
+<br><br>
 ## 🌟 Featured Projects
-<br>
+<br><br>
 ## 📫 Connect with Me
 
 <div align="center">
@@ -46,5 +41,6 @@ I'm **Mohd Arbab Rizvi** from Noida, India
 </div>
 
 <div align="center">
+  <br>
   💙 Thanks for visiting my profile! Let's connect and build something amazing together!
 </div>
