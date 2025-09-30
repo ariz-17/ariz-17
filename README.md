@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Arbab Rizvi** from Noida, India
+I'm **Mohd Arbab Rizvi** from Noida, India
 - 🎓 I'm a Computer Science Engineering Student
 - 💻 Learning Full Stack Development
 - 🤖 Exploring AI/ML and emerging technologies
@@ -24,31 +24,13 @@ I'm **Arbab Rizvi** from Noida, India
 </div>
 
 ## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariz17&theme=tokyonight" alt="ariz17" />
-</div>
-
+<br>
 ## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariz17&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
+<br>
 ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ariz17&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
+<br>
 ## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/ariz17/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ariz17&repo=Portfolio&theme=tokyonight" />
-  </a>
-</div>
-
+<br>
 ## 📫 Connect with Me
 
 <div align="center">
@@ -61,12 +43,6 @@ I'm **Arbab Rizvi** from Noida, India
   <a href="mailto:arbabrizviwork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ariz17&label=Profile%20views&color=0e75b6&style=flat" alt="ariz17" />
 </div>
 
 <div align="center">
