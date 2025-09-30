@@ -13,7 +13,7 @@
 
 ## 🛠️ Languages and Tools
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,expressjs,react,nodejs&theme=dark" />
 </div>
 
@@ -29,7 +29,7 @@
 <br><br>
 ## 📫 Connect with Me
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/mohd-arbab-rizvi-3217b9366">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> &nbsp
