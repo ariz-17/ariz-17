@@ -1,4 +1,5 @@
 # Hey There 👋
+<br>
 
 ## 🧑‍💻 About Me
 
@@ -8,6 +9,7 @@ I'm **Arbab Rizvi** from India, passionate about innovative web solutions and ex
 - 💻 Learning Full Stack Development
 - 🤖 Exploring AI/ML and emerging technologies
   
+<br>
 
 ## 🛠️ Languages and Tools
 
