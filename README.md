@@ -4,9 +4,9 @@
 ## 🧑‍💻 About Me
 
 I'm **Mohd Arbab Rizvi** from Noida, India
--🎓 I'm a Computer Science Engineering Student
--💻 Learning Full Stack Development
--🤖 Exploring AI/ML and emerging technologies
+- 🎓 I'm a Computer Science Engineering Student
+- 💻 Learning Full Stack Development
+- 🤖 Exploring AI/ML and emerging technologies
   
 <br>
 
