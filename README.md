@@ -3,10 +3,10 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Mohd Arbab Rizvi** from Noida, India
-- 🎓 I'm a Computer Science Engineering Student
-- 💻 Learning Full Stack Development
-- 🤖 Exploring AI/ML and emerging technologies
+<p align="left" dir="auto">I'm **Mohd Arbab Rizvi** from Noida, India
+<br>-🎓 I'm a Computer Science Engineering Student
+<br>-💻 Learning Full Stack Development
+<br>-🤖 Exploring AI/ML and emerging technologies</p>
   
 <br>
 
