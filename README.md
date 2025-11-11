@@ -18,11 +18,6 @@
 </div>
 <br><br>
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtkemhiM3M1Nm4wZXYyYmgyZmR2Zjd0cjlwc2V4c3R3MTlzajFociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-</div>
-
-
 ## 📊 GitHub Stats
 <br><br>
 ## 🔥 GitHub Streak
@@ -45,6 +40,10 @@
   <a href="mailto:arbabrizviwork@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtkemhiM3M1Nm4wZXYyYmgyZmR2Zjd0cjlwc2V4c3R3MTlzajFociZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
 <div align="center">
