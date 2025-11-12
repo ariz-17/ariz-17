@@ -20,7 +20,7 @@
 </div>
 <br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=popeye105&show_icons=true&locale=en" alt="popeye105" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariz17&show_icons=true&locale=en" alt="ariz17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=popeye105&" alt="popeye105" /></p>
 
