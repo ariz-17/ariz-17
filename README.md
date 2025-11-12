@@ -19,6 +19,7 @@
 <br><br>
 
 ## 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariz17&show_icons=true&locale=en&layout=compact" alt="ariz17" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariz17&show_icons=true&locale=en" alt="ariz17" /></p>
 <br><br>
 ## 📈 Activity Graph
