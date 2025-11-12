@@ -11,12 +11,19 @@
   
 <br>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariz17" alt="ariz17" /></a> </p>
+
 ## 🛠️ Languages and Tools
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,expressjs,react,nodejs&theme=dark" />
 </div>
 <br><br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=popeye105&show_icons=true&locale=en" alt="popeye105" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=popeye105&" alt="popeye105" /></p>
+
 
 ## 📊 GitHub Stats
 <br><br>
