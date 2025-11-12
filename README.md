@@ -19,12 +19,9 @@
 <br><br>
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariz17&show_icons=true&locale=en&layout=compact" alt="ariz17" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariz17&show_icons=true&locale=en" alt="ariz17" /></p>
-<br><br>
-## 📈 Activity Graph
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariz17&" alt="ariz17" /></p>
-<br><br>
+![](https://github-readme-stats.vercel.app/api?username=ariz17&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ariz17&theme=codeSTACKr&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ariz17&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariz17" alt="ariz17" /></a> </p>
 <br><br>
