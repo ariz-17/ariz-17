@@ -19,6 +19,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=ariz17&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 <br><br>
 
+### ✍️ Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?quote=Programs%20are%20meant%20to%20be%20read%20by%20humans%20and%20only%20incidentally%20for%20computers%20to%20execute.&author=Donald%20Knuth&type=horizontal&theme=gruvbox)
+
+
 ## 🛠️ Languages and Tools
 
 <div align="left">
@@ -26,18 +30,34 @@
 </div>
 <br><br>
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
+
+- 🖥️ **<a href="https://ariz17vintage.vercel.app/" target="_blank">Vintage 2.0</a>**  
+  *A Retro desktop experience with a taskbar and embedded applications.  
+  Features games, a music player, and much more.*
+
+- 👨‍🍳 **<a href="https://ariz17cookit.vercel.app/" target="_blank">Cook It</a>**  
+  *A fast-paced cooking game where players select ingredients and serve customers.  
+  Choose your chef, background, and beat the clock.*
+
 <br><br>
 
 ## 📫 Connect with Me
-<div align="left">
+
+<div align="left"> &nbsp &nbsp &nbsp &nbsp &nbsp
   <a href="https://linkedin.com/in/mohd-arbab-rizvi-3217b9366" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn" />
-  </a> &nbsp &nbsp
-  <a href="mailto:arbabrizviwork@gmail.com">
+  </a> &nbsp;&nbsp;
+
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35" height="35" alt="LeetCode" />
+  </a> &nbsp;&nbsp;
+
+  <a href="mailto:arbabrizviwork@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="35" height="35" alt="Gmail" />
   </a>
 </div>
+
   <br><br>
   💙 Thanks for visiting my profile! Let's connect and build something amazing together.
 </div>
