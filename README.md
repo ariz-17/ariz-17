@@ -11,8 +11,6 @@
   
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariz17" alt="ariz17" /></a> </p>
-
 ## 🛠️ Languages and Tools
 
 <div align="left">
@@ -23,12 +21,11 @@
 ## 📊 GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariz17&show_icons=true&locale=en" alt="ariz17" /></p>
 <br><br>
-## 🔥 GitHub Streak
-<br><br>
 ## 📈 Activity Graph
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariz17&" alt="ariz17" /></p>
 <br><br>
 ## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariz17" alt="ariz17" /></a> </p>
 <br><br>
 ## 🌟 Featured Projects
 <br><br>
