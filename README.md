@@ -22,10 +22,10 @@
 <br><br>
 
 ## 🧩 LeetCode Stats
-<p align="left">
+<p align="center">
   <img 
-       src="https://leetcard.jacoblin.cool/sayedafatima162?theme=dark&ext=heatmap&border=0&width=800&height=150" 
-       alt="LeetCode Stats" >
+       src="https://leetcard.jacoblin.cool/sayedafatima162?ext=activity&theme=dark&border=0&width=1100" 
+       alt="LeetCode Contribution Graph">
 </p>
 
 ## 📫 Connect with Me
